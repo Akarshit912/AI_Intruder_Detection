@@ -1,0 +1,9 @@
+yolo11n.pt
+yolo11s.pt
+yolo26n.pt
+yolo26s.pt
+
+models\enrollment_db_buffalo_l.pkl
+models\enrollment_db_buffalo_s.pkl
+
+datasets/

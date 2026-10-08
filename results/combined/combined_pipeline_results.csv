@@ -1,0 +1,2 @@
+Model,Face Model,Images Tested,Mean Latency (ms),Median Latency (ms),P95 Latency (ms),Mean FPS
+YOLO26n,Buffalo-S,15,4456.038966666286,1892.07789998909,16117.960299998205,2.824101139648419
